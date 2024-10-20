@@ -1,0 +1,10 @@
+{
+  "data": {
+    "userById": {
+      "userId": 1,
+      "firstName": "Test",
+      "lastName": "User",
+      "email": "testuser@adspot.com"
+    }
+  }
+}

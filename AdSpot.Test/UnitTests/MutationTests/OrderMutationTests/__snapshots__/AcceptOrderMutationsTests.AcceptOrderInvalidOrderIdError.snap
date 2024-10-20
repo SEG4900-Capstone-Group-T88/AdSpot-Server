@@ -1,0 +1,13 @@
+{
+  "data": {
+    "acceptOrder": {
+      "order": null,
+      "errors": [
+        {
+          "__typename": "InvalidOrderIdError",
+          "message": "Order with id -1 does not exist."
+        }
+      ]
+    }
+  }
+}

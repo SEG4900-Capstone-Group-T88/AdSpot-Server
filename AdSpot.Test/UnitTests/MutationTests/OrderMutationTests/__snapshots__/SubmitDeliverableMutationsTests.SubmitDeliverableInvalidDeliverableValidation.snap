@@ -1,0 +1,14 @@
+{
+  "errors": [
+    {
+      "message": "`Test Deliverable` is not a valid URI",
+      "path": [
+        "submitDeliverable"
+      ],
+      "extensions": {
+        "code": "PredicateValidator"
+      }
+    }
+  ],
+  "data": null
+}

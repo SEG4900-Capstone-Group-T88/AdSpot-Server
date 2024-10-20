@@ -1,0 +1,13 @@
+{
+  "data": {
+    "rejectOrder": {
+      "order": null,
+      "errors": [
+        {
+          "__typename": "ListingDoesNotBelongToUserError",
+          "message": "Listing with id 1 does not belong to user with id 2"
+        }
+      ]
+    }
+  }
+}

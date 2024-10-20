@@ -1,0 +1,13 @@
+{
+  "data": {
+    "orderListing": {
+      "order": null,
+      "errors": [
+        {
+          "__typename": "ListingPriceHasChangedError",
+          "message": "The listing price has changed from `120.00` to `100.00`."
+        }
+      ]
+    }
+  }
+}

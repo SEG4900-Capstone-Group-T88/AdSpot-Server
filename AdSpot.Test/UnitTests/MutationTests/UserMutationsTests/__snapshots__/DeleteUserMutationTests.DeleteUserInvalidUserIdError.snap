@@ -1,0 +1,13 @@
+{
+  "data": {
+    "deleteUser": {
+      "user": null,
+      "errors": [
+        {
+          "__typename": "InvalidUserIdError",
+          "message": "User with id `2` does not exist."
+        }
+      ]
+    }
+  }
+}
