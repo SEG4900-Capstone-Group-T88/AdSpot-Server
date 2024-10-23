@@ -1,0 +1,13 @@
+{
+  "data": {
+    "orderListing": {
+      "order": null,
+      "errors": [
+        {
+          "__typename": "CannotOrderOwnListingError",
+          "message": "Cannot order own listing."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "data": {
+    "updateListingPrice": {
+      "listing": {
+        "listingId": 1,
+        "price": 120.00
+      },
+      "errors": null
+    }
+  }
+}

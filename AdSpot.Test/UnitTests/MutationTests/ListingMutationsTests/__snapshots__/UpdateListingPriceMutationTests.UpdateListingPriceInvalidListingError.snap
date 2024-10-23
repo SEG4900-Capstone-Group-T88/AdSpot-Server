@@ -1,0 +1,13 @@
+{
+  "data": {
+    "updateListingPrice": {
+      "listing": null,
+      "errors": [
+        {
+          "__typename": "InvalidListingIdError",
+          "message": "Listing with id `2` does not exist."
+        }
+      ]
+    }
+  }
+}

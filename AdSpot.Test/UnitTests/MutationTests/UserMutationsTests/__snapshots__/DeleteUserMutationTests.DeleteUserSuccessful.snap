@@ -1,0 +1,13 @@
+{
+  "data": {
+    "deleteUser": {
+      "user": {
+        "userId": 2,
+        "email": "testuser2@adspot.com",
+        "firstName": "Test",
+        "lastName": "User 2"
+      },
+      "errors": null
+    }
+  }
+}

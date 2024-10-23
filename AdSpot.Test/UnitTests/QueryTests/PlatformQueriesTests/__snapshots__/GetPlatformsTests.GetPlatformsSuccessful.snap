@@ -1,0 +1,22 @@
+{
+  "data": {
+    "platforms": [
+      {
+        "platformId": 1,
+        "name": "Facebook"
+      },
+      {
+        "platformId": 2,
+        "name": "Twitter"
+      },
+      {
+        "platformId": 3,
+        "name": "Instagram"
+      },
+      {
+        "platformId": 4,
+        "name": "Youtube"
+      }
+    ]
+  }
+}

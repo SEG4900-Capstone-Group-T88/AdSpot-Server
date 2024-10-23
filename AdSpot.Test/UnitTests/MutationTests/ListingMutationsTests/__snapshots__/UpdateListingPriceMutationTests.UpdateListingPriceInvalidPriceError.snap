@@ -1,0 +1,13 @@
+{
+  "data": {
+    "updateListingPrice": {
+      "listing": null,
+      "errors": [
+        {
+          "__typename": "InvalidPriceError",
+          "message": "Price `-1.00` is invalid. Price must be greater than 0."
+        }
+      ]
+    }
+  }
+}
